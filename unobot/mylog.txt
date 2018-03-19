@@ -1,0 +1,148 @@
+
+
+Aloitetaan! 
+vastustaja0
+Machine: 0
+Machine: 0
+Machine: 0
+vastustaja1
+Machine: 0
+Machine: 0
+Machine: 0
+vastustaja2
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 15
+Machine: 49
+Machine: 40
+Machine: 2
+Machine: 22
+Machine: 34
+Machine: 39
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 46
+Machine: 1
+Machine: 0
+Machine: end
+13
+13
+13
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 6
+Machine: 3
+vastustaja1
+Machine: 0
+Machine: 6
+Machine: 3
+vastustaja2
+Machine: 0
+Machine: 6
+Machine: 1
+Machine: 15
+Machine: 49
+Machine: 40
+Machine: 2
+Machine: 22
+Machine: 34
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 13
+Machine: 1
+Machine: 0
+Machine: end
+15
+15
+15
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 5
+Machine: 1
+vastustaja1
+Machine: 0
+Machine: 6
+Machine: 3
+vastustaja2
+Machine: 0
+Machine: 7
+Machine: 1
+Machine: 15
+Machine: 49
+Machine: 2
+Machine: 22
+Machine: 34
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 40
+Machine: 1
+Machine: 0
+Machine: end
+00
+00
+00
+vastustaja0
+Machine: 0
+Machine: 5
+Machine: 1
+vastustaja1
+Machine: 0
+Machine: 4
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 10
+Machine: 1
+Machine: 49
+Machine: 2
+Machine: 22
+Machine: 34
+Machine: 30
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 48
+Machine: 1
+Machine: 0
+Machine: end
+17
+17
+17
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 4
+Machine: 2
+vastustaja1
+Machine: 0
+Machine: 6
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 9
+Machine: 2
+Machine: 2
+Machine: 22
+Machine: 34
+Machine: 30
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 27
+Machine: 1
+Machine: 0
+Machine: end
